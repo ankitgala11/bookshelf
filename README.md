@@ -2,6 +2,12 @@
 
 This is a CRUD (Create, Read, Update, Delete) application built with Spring Boot to help keen readers keep track of the books they have read.
 
+![image](https://github.com/ankitgala11/bookshelf/assets/58542521/9af05bdc-4186-4eaa-93b5-bfdd9d4fa09f)
+![image](https://github.com/ankitgala11/bookshelf/assets/58542521/fe5576a3-c43d-46cd-9b0d-49c1e3102a86)
+![image](https://github.com/ankitgala11/bookshelf/assets/58542521/fc573b26-d6d0-4e8c-9b9a-0915854fd497)
+
+
+
 ## Features
 
 - **Create:** Add new books to the system with details such as title, author, description, image and price.
